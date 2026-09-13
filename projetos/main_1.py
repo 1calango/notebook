@@ -12,7 +12,7 @@ def main(page: ft.Page):
     subtitulo = ft.Text(
         "Técnico em Informática - Turma 2º Ano (IFNMG). "
         '''
-        "O Python é muito interessante, mas não mais que dormir"''',
+        "O Python é muito interessante, mas não mais que dormir"''', #citação do autor, desconsidere
         size=30, color = "#ab13ff",
         text_align=ft.TextAlign.CENTER
     )
